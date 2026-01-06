@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Suicide [Remix]",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-06T08:07:31.792097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nana (Suicide remix)",
+      "artist": "N.U.K.E.",
+      "has_synced": false,
+      "path": "select/01_Nana_(Suicide_remix)_N.U.K.E..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suicide [Remix] (feat. Tiji Jojo, Hideyoshi & Jin Dogg)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Suicide_[Remix]_(feat._Tiji_Jojo,_Hideyoshi_&_Jin_Dogg)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SLIPPING AWAY (SUICIDE REMIX)",
+      "artist": "STABBING WESTWARD",
+      "has_synced": false,
+      "path": "select/03_SLIPPING_AWAY_(SUICIDE_REMIX)_STABBING_WESTWARD.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nana (Suicide Remix)",
+      "artist": "Nuke",
+      "has_synced": false,
+      "path": "select/04_Nana_(Suicide_Remix)_Nuke.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Suicide [Remix] (feat. Tiji Jojo, Hideyoshi",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/05_Suicide_[Remix]_(feat._Tiji_Jojo,_Hideyoshi_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cause of Death: Suicide (remix by Grendel)",
+      "artist": "Suicide Commando",
+      "has_synced": false,
+      "path": "select/06_Cause_of_Death__Suicide_(remix_by_Grendel)_Suicide_Commando.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On It (Antron 2600 of 8-Bit Suicide Remix)",
+      "artist": "Mindless Self Indulgence",
+      "has_synced": false,
+      "path": "select/07_On_It_(Antron_2600_of_8-Bit_Suicide_Remix)_Mindless_Self_Indulgence.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Suicide - Remix",
+      "artist": "BAD HOP, Tiji Jojo, Hideyoshi, Jin Dogg",
+      "has_synced": false,
+      "path": "select/pl_01_Suicide_-_Remix_BAD_HOP,_Tiji_Jojo,_Hideyoshi,_Jin_Dogg.txt"
+    }
+  ]
+}
